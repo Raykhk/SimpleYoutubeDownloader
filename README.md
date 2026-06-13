@@ -1,13 +1,13 @@
-SimpleYoutubeDownloader
+# SimpleYoutubeDownloader
 A lightweight, GUI-based YouTube downloader built with Python and yt-dlp. Designed for simplicity, speed, and clean batch processing.
 
 
 v1.0.0 Initial stable release
 # Features
-Full GUI support for downloading YouTube videos and playlists.
-Multi-resolution support (360p - 1080p).
-Session logging with file save capability.
-Dark/Light theme toggle.
+Full GUI support for downloading YouTube videos and playlists.  
+Multi-resolution support (360p - 1080p).  
+Session logging with file save capability.  
+Dark/Light theme toggle.  
 
 
 # Why is there an "Update Engine" button?
