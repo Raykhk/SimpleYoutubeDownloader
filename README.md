@@ -4,7 +4,7 @@ A lightweight, GUI-based YouTube downloader built with Python and `yt-dlp`. Desi
 
 ## Features
 * **Multi-Format Support:** Download high-quality video or audio-only files.
-* **Resolution Control:** Choose from 360p up to 1080p.
+* **Resolution Control:** Choose from 360p up to 1080p, or select **"Best Quality"** to automatically download up to 4K/8K resolution when available.
 * **Batch Processing:** Full support for YouTube Playlists.
 * **Session Logging:** Keep track of your downloads with a built-in session history.
 * **Dark/Light Mode:** Seamlessly switch between themes.
